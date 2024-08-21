@@ -232,7 +232,7 @@ h2:after{
     content:'';
     display:block;width:50%;
     height:60px;
-    border-right:2px solid rgb(32,123,32);
+    border-right:2px solid rgb(255, 255, 255);
     background:transparent;
     margin-bottom:10px
 }
@@ -265,7 +265,7 @@ body{
 }
 
 #header nav a:hover,#header nav a.active{
-    background-color:rgba(84,209,84,0.3)
+    background-color:rgba(0, 0, 0, 0.3)
 
 }
 
@@ -325,7 +325,7 @@ body{
 }
 
 #footer,#footer a{
-    color:rgb(204,204,204)
+    color:rgb(255, 255, 255)
 
 }
 
@@ -370,7 +370,7 @@ body{
 
 #copyright{
     text-align:center;
-    background-color:rgb(34,34,34);
+    background-color:rgb(0, 0, 0);
     padding:10px
 }
 
@@ -380,7 +380,7 @@ body{
 }
 
 #header.page-home{
-    background-image:url(../../images/rick-and-morty-rick-1920x1200-9494.png)
+    background-image:url(../../images/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
 }
 
 #customers{
@@ -408,7 +408,7 @@ body{
     max-width:1000px
 }
 
-#team{background-color:rgb(84,209,84);
+#team{background-color:rgb(33, 22, 190);
     color:white
 }
 
